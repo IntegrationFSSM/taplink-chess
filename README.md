@@ -36,3 +36,4 @@ Pour activer ce Taplink directement et gratuitement via GitHub Pages :
 ---
 
 © 2026 Chess Club FSSM • Tous droits réservés.
+
